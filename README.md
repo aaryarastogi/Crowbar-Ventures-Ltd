@@ -25,12 +25,14 @@ Includes Homepage, About, Services/Holdings, Contact Form, and Footer with compa
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
-
-
+```
+```bash
 ### 2. Install dependencies
 npm install
-
+```
+```bash
 ### 3. Run locally
 npm run dev
+```
 
 ## App will be available at http://localhost:5173/
