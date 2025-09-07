@@ -26,12 +26,12 @@ Includes Homepage, About, Services/Holdings, Contact Form, and Footer with compa
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
 ```
-```bash
 ### 2. Install dependencies
+```bash
 npm install
 ```
-```bash
 ### 3. Run locally
+```bash
 npm run dev
 ```
 
